@@ -1,2 +1,3 @@
 # excel_python
-excel filling automation
+excel filling from csv using python
+pandas
